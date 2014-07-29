@@ -1,2 +1,2 @@
-ebookviewer
+e-contents javascript library
 ===========
